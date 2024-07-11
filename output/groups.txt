@@ -1,0 +1,18 @@
+[Grupo 1 - Tema: topic 3]
+Student 3
+Student 7
+Student 9
+Student 10
+
+[Grupo 2 - Tema: topic 2]
+Student 6
+Student 1
+Student 2
+Student 5
+
+[Grupo 3 - Tema: topic 1]
+Student 8
+Student 11
+Student 12
+Student 4
+

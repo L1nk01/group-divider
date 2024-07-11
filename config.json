@@ -1,0 +1,6 @@
+{
+  "group_size": 4,
+  "students_file": "./input/students.csv",
+  "topics_file": "./input/topics.csv",
+  "output_file": "./output/groups.txt"
+}
